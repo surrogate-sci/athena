@@ -1,1 +1,1 @@
-# ATHENA: 10x preclinical to clinical trial success problem with Causal AI
+# ATHENA: 10x preclinical to clinical trial success with Causal AI

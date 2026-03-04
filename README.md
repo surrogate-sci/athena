@@ -10,16 +10,16 @@ human response to drugs is rarely even quantified, let alone systematically impr
 trial success rates by quantitatively evaluating these proxies, combining them into improved
 predictive models using causal AI. 
 
-<img width="908" height="508" alt="image" src="https://github.com/user-attachments/assets/aa229bcb-4735-4449-a2c6-aac29f1f0e24" />
-
+[Pitch](https://www.loom.com/share/aa4a24dd6c5e4be88d683d0ea8a0971c), [Slides](ATHENA-deck-2024.pdf)
 
 <img width="907" height="513" alt="image" src="https://github.com/user-attachments/assets/98512ae6-8e5c-4d9d-a029-55fbe2de5a32" />
 
 
-[Pitch](https://www.loom.com/share/aa4a24dd6c5e4be88d683d0ea8a0971c)
+### About Manjari
 
-[Slides](ATHENA-deck-2024.pdf)
+<img width="908" height="508" alt="image" src="https://github.com/user-attachments/assets/aa229bcb-4735-4449-a2c6-aac29f1f0e24" />
 
-Presented at 
+
+### Presented at 
 
 <img width="584" height="772" alt="image" src="https://github.com/user-attachments/assets/8cba2e63-3d7e-4b1d-a7a7-83cf4910d299" />
